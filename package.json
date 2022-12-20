@@ -1,5 +1,5 @@
 {
-  "name": "NodeScreenshot",
+  "name": "nodescreenshot",
   "version": "1.0.0",
   "description": "This module lets you easily create screenshots of web pages for free without the use of any API.",
   "main": "index.js",

@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [screenshot, nodescreenshot, node-screenshot, web-preview, preview, amosayomide05],
+  "keywords": ["screenshot", "nodescreenshot", "node-screenshot", "web-preview", "preview", "url-preview", "amosayomide05"],
   "author": "Amos Ayomide (amosayomide05)",
   "license": "MIT License",
   "dependencies": {

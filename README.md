@@ -5,7 +5,7 @@ This module lets you easily create screenshots of web pages for free without the
 
 Using `npm`:
 
-	npm install screenshot
+	npm install @amosayomide05/nodescreenshot
 
 ### Take a screenshot
 

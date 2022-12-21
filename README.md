@@ -10,9 +10,9 @@ Using `npm`:
 ### Take a screenshot
 
 ```js
-var nodeshot = require('@amosayomide05/nodescreenshot');
+var nodeScreenshot = require('@amosayomide05/nodescreenshot');
 
-const screenshot = await takeScreenshot('https://amosayomide05.github.io');
+const screenshot = await nodeScreenshot('https://amosayomide05.github.io');
 ```
 
 Note that this function returns a Promise that resolves with a Buffer containing the screenshot data. You can use the Buffer class to save the screenshot to a file or manipulate the data in some other way.
